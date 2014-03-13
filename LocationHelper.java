@@ -39,13 +39,13 @@ public class LocationHelper
 		   }
 	   }
 	   
-	   /*
+	   
 	   Location currentLocation = determineCurrentLocation(locationManager);
 	   if(currentLocation != null)
 	   {
 		   return currentLocation; 
 	   }
-	   */
+	   
 	   
 	   return lastKnownLocation;   
    }
