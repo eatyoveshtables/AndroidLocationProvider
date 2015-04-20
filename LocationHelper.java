@@ -1,5 +1,4 @@
-package com.icebreakers.sss.logic;
-
+package com.locationprovider;
 import java.util.List;
 
 import com.google.android.gms.common.ConnectionResult;
